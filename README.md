@@ -82,8 +82,6 @@ Feature engineering was performed to create additional variables such as deliver
 │   └── olist_merged_dataset.csv
 ├── notebooks/
 │   └── Olist_EDA.ipynb
-├── images/
-│   └── visualizations.png
 ├── README.md
 ```
 
